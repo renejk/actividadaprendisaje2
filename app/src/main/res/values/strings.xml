@@ -1,3 +1,27 @@
 <resources>
     <string name="app_name">CrudActivity</string>
+
+    <string name="str_btn_buscar">Buscar Contacto</string>
+    <string name="str_btn_registrar">Registrar Contacto</string>
+    <string name="str_btn_listar">Listar Contacto</string>
+
+    <string name="str_btn_guardar">Guardar</string>
+    <string name="str_btn_actualizar">Actualizar</string>
+    <string name="str_btn_eliminar">Eliminar</string>s
+
+    <string name="str_nombre">Nombre</string>
+    <string name="str_telefono">Telelfono</string>
+    <string name="str_correo">Correo</string>
+    <string name="str_direccion">Dirección</string>
+
+    <string name="str_bienvenido">Bienvenidos</string>
+    <string name="str_descripcion_imagen">imagen de contactos</string>
+    <string name="str_listar_contactos">Listado de Contactos</string>
+    <string name="str_buscar_contacto">Buscar Contacto</string>
+    <string name="str_gestion_contacto">Gestion de Contacto</string>
+
+    <string name="str_digite_nombre">Digite nombre del Contacto</string>
+    <string name="str_digite_telefono">Digite telefono del Contacto</string>
+    <string name="str_digite_correo">Digite correo del Contacto</string>
+    <string name="str_digite_direccion">Digite dirección del Contacto</string>
 </resources>

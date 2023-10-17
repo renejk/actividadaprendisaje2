@@ -1,6 +1,7 @@
 package com.example.crudactivity.modelos;
 
-public class Contacto {
+
+public class Contacto  {
     private int id;
     private String nombre, telefono, correo, direccion;
 
